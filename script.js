@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', function(){
     var redirectTime = 5;
     var spanTime;
     var redirectInterval;
-    var redirectLink = "/login.html";
+    var redirectLink = "login.html";
 
     // Functions
     function setMessage(element, message=null){
